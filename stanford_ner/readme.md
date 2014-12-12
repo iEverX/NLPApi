@@ -17,7 +17,7 @@
 
 
 ## 下载
-jar包、模型下载地址：<http://pan.baidu.com/s/1mgJZ0hy#path=%252Fpublic%252Fstandford_ner>
+jar包、模型下载地址：<http://pan.baidu.com/s/1mgJZ0hy#path=%252Fpublic%252FNLPApi%252Fstandford_ner>
 其中：
 * lib文件夹为需要的jar包
 * ner.jar为本程序的编译版本
